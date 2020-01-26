@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bticoin-rate-app/static/css/main.01d7fa3f.chunk.css",
+    "main.js": "/bticoin-rate-app/static/js/main.953ac9aa.chunk.js",
+    "main.js.map": "/bticoin-rate-app/static/js/main.953ac9aa.chunk.js.map",
+    "runtime-main.js": "/bticoin-rate-app/static/js/runtime-main.06feb5e2.js",
+    "runtime-main.js.map": "/bticoin-rate-app/static/js/runtime-main.06feb5e2.js.map",
+    "static/js/2.a8f63be2.chunk.js": "/bticoin-rate-app/static/js/2.a8f63be2.chunk.js",
+    "static/js/2.a8f63be2.chunk.js.map": "/bticoin-rate-app/static/js/2.a8f63be2.chunk.js.map",
+    "index.html": "/bticoin-rate-app/index.html",
+    "precache-manifest.27a186c380d644614c7ea6af3a598e20.js": "/bticoin-rate-app/precache-manifest.27a186c380d644614c7ea6af3a598e20.js",
+    "service-worker.js": "/bticoin-rate-app/service-worker.js",
+    "static/css/main.01d7fa3f.chunk.css.map": "/bticoin-rate-app/static/css/main.01d7fa3f.chunk.css.map",
+    "static/js/2.a8f63be2.chunk.js.LICENSE": "/bticoin-rate-app/static/js/2.a8f63be2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06feb5e2.js",
+    "static/js/2.a8f63be2.chunk.js",
+    "static/css/main.01d7fa3f.chunk.css",
+    "static/js/main.953ac9aa.chunk.js"
+  ]
+}
